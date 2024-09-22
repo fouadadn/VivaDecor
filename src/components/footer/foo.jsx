@@ -13,7 +13,7 @@ export default function Footer() {
                         <Mail color='gray' size={20} />
                         <input className='focus:outline-none w-80' type="text" name="" id="" placeholder='Enter your email address' />
                     </div>
-                    <button className='bg-black text-white px-3 rounded hover:bg-white duration-500 hover:text-black border hover:border-black w-[28%]'>Subscribe</button>
+                    <button className='bg-black text-white px-3 rounded-md hover:bg-white duration-500 hover:text-black border hover:border-black w-[28%]'>Subscribe</button>
                 </div>
             </div>
 

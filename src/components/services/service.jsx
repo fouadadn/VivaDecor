@@ -75,7 +75,7 @@ export default function Service() {
                     </div>
                     <hr className='w-20'/>
                     <div className='flex justify-center lg:justify-start'>
-                        <button className=' bg-black text-white py-2 px-6 rounded hover:bg-white duration-500 hover:text-black border hover:border-black mt-5 shadow-md'>Learn More</button>
+                        <button className=' bg-black text-white py-2 px-6 rounded-md hover:bg-white duration-500 hover:text-black border hover:border-black mt-5 shadow-md'>Learn More</button>
                     </div>
                 </div>
             </div>

@@ -17,7 +17,7 @@ export default function Nav() {
         </div>
 
         <div >
-            <button className='bg-black text-white py-2 px-6 rounded hover:bg-white duration-500 hover:text-black border hover:border-black'>Sign Up</button>
+            <button className='bg-black text-white py-2 px-6 rounded-md hover:bg-white duration-500 hover:text-black border hover:border-black'>Sign Up</button>
         </div>
 
     </nav>
