@@ -9,10 +9,10 @@ export default function Nav() {
         </div>
 
         <div className='hidden gap-8  lg:flex'>
-            <a className='' href="">Home</a>
+            <a className='' href="#Home">Home</a>
             <a className='' href="#sercive">Services</a>
-            <a className='' href="">Contact</a>
-            <a className='' href="">Support</a>
+            <a className='' href="#Contact">Contact</a>
+            <a className='' href="#footer">Support</a>
 
         </div>
 

@@ -4,7 +4,7 @@ export default function InterDesign() {
     return (
         <>
             <div>
-                <div className='flex gap-[60px] mt-14' >
+                <div className='flex gap-[60px] mt-14' id='Home'>
                     <div className=''>
                         <div>      
                                 <h1 className='text-8xl  lg:text-9xl '>

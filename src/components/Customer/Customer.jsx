@@ -9,7 +9,7 @@ import right from './assets/ArrowRight.png'
 export default function Customer() {
     return (
         <>
-            <div className="hidden  2xl:block">
+            <div className="hidden  2xl:block" id='Contact'>
                 <div className='flex w-full mt-28  relative gap-14 '>
                     <div>
                         <div className='w-[500px] absolute z-0 '>

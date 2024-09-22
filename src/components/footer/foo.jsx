@@ -6,7 +6,7 @@ export default function Footer() {
     return (
 
 
-        <div className='bg-[#1F1F1F] h-fit py-6 mt-20'>
+        <div className='bg-[#1F1F1F] h-fit py-6 mt-20' id='footer'>
             <div className='flex justify-center  '>
                 <div className='bg-white flex gap-4 p-2  rounded -mt-16 shadow-inner  w-[400px] md:w-[580px]'>
                     <div className='flex items-center gap-3 pl-3 w-[70%]'>
