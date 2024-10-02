@@ -86,9 +86,9 @@ export default function Customer() {
 
 
             <div className='mt-32 flex flex-col items-center gap-14'>
-                <h1 className='text-center text-4xl w-[500px] md:w-[800px]  md:text-6xl'>Subscribe to Our Newsletter for Design Insights</h1>
+                <h1 className='text-center text-3xl   md:text-6xl'>Subscribe to Our Newsletter <br /> for Design Insights</h1>
 
-                <h2 className='text-[#545454] w-[460px] text-center'>Be the first to discover trends, inspirations, and special offers as we bring the world of design directly to your inbox</h2>
+                <h2 className='text-[#545454] text-sm text-center'>Be the first to discover trends, inspirations, and special offers as <br /> we bring the world of design directly to your inbox</h2>
             </div>
         </>
     )

@@ -1,7 +1,7 @@
 export default function Nav() {
     
     return(
-
+    
     <nav className='flex justify-between py-3' >
         <div>
             <div className='w-6 h-7 border-2 border-black border-r-0 rounded inline-block '></div>

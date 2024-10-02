@@ -7,7 +7,7 @@ export default function Footer() {
 
 
         <div className='bg-[#1F1F1F] h-fit py-6 mt-20' id='footer'>
-            <div className='flex justify-center  '>
+            <div className='flex justify-center'>
                 <div className='bg-white flex gap-4 p-2  rounded -mt-16 shadow-inner  w-[400px] md:w-[580px]'>
                     <div className='flex items-center gap-3 pl-3 w-[70%]'>
                         <Mail color='gray' size={20} />
@@ -67,7 +67,8 @@ export default function Footer() {
                     <h1 className='text-white font-bold'>Our Services</h1>
                     <span>info@vivadecor.com</span>
                     <span>Design Avenue Cityville, <br /> CA 90210 United States</span>
-
+                       
+                    <span>VivaDecor © Made by <a href="">Fouad adnan</a></span>
                 </div>
 
             </div>

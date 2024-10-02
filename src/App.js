@@ -6,8 +6,8 @@ import Footer from './components/footer/foo';
 
 function App() {
   return (
-    <div className="App">
-      <div className='lg:px-[120px] px-6 '>
+    <div className="App ">
+      <div className='lg:px-[120px] px-2 '>
         <Nav />
         <Inter/>
         <Service />

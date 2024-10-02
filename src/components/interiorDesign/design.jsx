@@ -10,7 +10,7 @@ export default function InterDesign() {
                                 <h1 className='text-8xl  lg:text-9xl '>
                                     Interior Design
                                 </h1>
-                            <p className='text-[#545454] w-[460px] mt-6' >
+                            <p className='text-[#545454]' >
                                 Step into a world where the art of Interior Design is meticulously crafted to bring together timeless elegance and cutting-edge
                                 modern Innovation, Allowing you to transform your living spaces into the epitome of luxury and sophistication
                             </p>

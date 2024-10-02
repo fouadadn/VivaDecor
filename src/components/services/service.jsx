@@ -53,27 +53,27 @@ export default function Service() {
                     <img src={image4} alt="" />
                 </div>
                 <div>
-                    <h1 className='text-7xl'>
+                    <h1 className='text-6xl'>
                         Designing Your Dream With Brilliance
                     </h1>
 
-                    <p className='mt-7 w-[450px] text-[#545454]'>
+                    <p className='mt-7 w-[410px] text-[#545454]'>
                         Elevate your spaces with bespoke interior designs that reflect your unique style and aspirations, crafted with precision and brilliance for an unforgettable living experience
                     </p>
 
-                    <div className='mt-6 flex justify-between items-center font-bold '>
+                    <div className='mt-6 flex justify-between items-center font-bold w-96 xl:w-[100%]  '>
                         <h4 >Living Room Interior Design</h4>
                         <span className='text-[35px] font-thin'>+</span>
                     </div>
 
-                    <hr className='w-20'/>
+                    <hr className='w-48'/>
 
-                    <div className='mt-3 flex justify-between items-center font-bold '>
+                    <div className='mt-3 flex justify-between items-center font-bold  w-96 xl:w-[100%]'>
                         <h4 >Commercial Office Room Interior Design</h4>
                         <span className='text-[35px] font-thin'>+</span>
                     </div>
-                    <hr className='w-20'/>
-                    <div className='flex justify-center lg:justify-start'>
+                    <hr className='w-48'/>
+                    <div className='flex justify-center lg:justify-start  '>
                         <button className=' bg-black text-white py-2 px-6 rounded-md hover:bg-white duration-500 hover:text-black border hover:border-black mt-5 shadow-md'>Learn More</button>
                     </div>
                 </div>
@@ -84,14 +84,14 @@ export default function Service() {
             <div className='flex mt-32'>
 
                 <div className=''>
-                    <h1 className='text-6xl '>Designing Your Dream in Three Simple Steps</h1>
+                    <h1 className='text-5xl md:text-6xl '>Designing Your Dream in Three Simple Steps</h1>
                     <div className='mt-10'>
                         <div className='my-3' >
                             <div className='flex items-center gap-5 '>
                                 <div className='rounded-full bg-black p-3'><img className='w-[20px]' src={step1} alt="" /></div>
                                 <h3 className='font-bold text-lg'>Start Project</h3>
                             </div>
-                            <span className='text-[#545454] w-[400px] inline-block border-l-[1px] border-black pl-11 ml-5 mt-2'>Embark on your design adventure by initiating your project. Share your vision and set the stage for a bespoke design experience</span>
+                            <span className='text-[#545454] w-[350px]  inline-block border-l-[1px] border-black pl-11 ml-5 mt-2'>Embark on your design adventure by initiating  your project. Share your vision and set the stage  for a bespoke design experience</span>
                         </div>
 
                         <div className='my-3' >
@@ -99,14 +99,14 @@ export default function Service() {
                                 <div className='rounded-full bg-black p-3'><img className='w-[20px]' src={step2} alt="" /></div>
                                 <h3 className='font-bold text-lg'>Craft</h3>
                             </div>
-                            <span className='text-[#545454] w-[400px] inline-block border-l-[1px] border-black pl-11 ml-5 mt-2'>Collaborate closely to achieve design excellence refining your vision and crafting brilliance into every aspect of your space</span>
+                            <span className='text-[#545454] w-[350px]   inline-block border-l-[1px] border-black pl-11 ml-5 mt-2'>Collaborate closely to achieve design excellence refining your vision and crafting brilliance into every aspect of your space</span>
                         </div>
                         <div >
                             <div className='flex items-center gap-5'>
                                 <div className='rounded-full bg-black p-3'><img className='w-[20px] relative top-[2px]' src={step3} alt="" /></div>
                                 <h3 className='font-bold text-lg'>Execute</h3>
                             </div>
-                            <span className='text-[#545454] w-[390px] inline-block pl-16' >Witness your vision becoming a reality as we execute the design plan with precision. Celebrate the joy of your newly transformed space</span>
+                            <span className='text-[#545454] w-[350px] inline-block pl-16' >Witness your vision becoming a reality as we execute the design plan with precision. Celebrate the joy of your newly transformed space</span>
                         </div>
                     </div>
                 </div>
